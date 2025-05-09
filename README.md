@@ -1,8 +1,11 @@
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
+
 # 🕶️ CyberSecurity Simulation Lab: ULTIMATE Edition
 
 **CyberSecurity Simulation Lab: Ultimate Edition** by **Zardd Productions** is a gamified, interactive cybersecurity training platform designed for students, IT educators, and organizations who want to make cyber defense learning fun, engaging, and effective.
 
 ## 🚀 Features
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 - 🎮 **Gamified Simulations**: Ransomware, DoS, Keylogger, Trojan simulation, and Port Scanning
 - 📊 **Live Dashboard**: Track your cyber score, rank, and unlocked badges
@@ -16,6 +19,7 @@ pip install pygame
 python main.py
 
 
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 🧰 Use Cases
 Perfect for:
@@ -32,11 +36,15 @@ Licensed under the Zardd Productions Simulation License — see LICENSE.
 ✅ Free Use
 Individuals can use and share the tool 100% free for educational and personal development.
 
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 ## 💼 Organizational License Pricing
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 - $29/year per instructor OR  
 - $99/year for unlimited access at one school, lab, or company site
+
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 ### 💳 How to Purchase:
 1. Send payment to: [https://paypal.me/czardd](https://paypal.me/czardd)
@@ -48,6 +56,7 @@ Licenses are delivered manually within 1–2 business days.
 
 
 ---
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 📬 Contact
  Discord: @czardd
@@ -55,6 +64,7 @@ Licenses are delivered manually within 1–2 business days.
 
 
 ---
+⚠️ NOTICE: This is a work-in-progress project. Distribution, licensing, and payment are not yet active or permitted.
 
 ### 📄 `LICENSE`
 
